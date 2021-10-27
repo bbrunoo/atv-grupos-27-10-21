@@ -1,0 +1,16 @@
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\tarefa2710.exe
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\tarefa2710.deps.json
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\tarefa2710.runtimeconfig.json
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\tarefa2710.runtimeconfig.dev.json
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\tarefa2710.dll
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\ref\tarefa2710.dll
+D:\projetos\ams\1ano\atv2710\tarefa2710\bin\Debug\net5.0\tarefa2710.pdb
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.csproj.AssemblyReference.cache
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.AssemblyInfoInputs.cache
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.AssemblyInfo.cs
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.csproj.CoreCompileInputs.cache
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.dll
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\ref\tarefa2710.dll
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.pdb
+D:\projetos\ams\1ano\atv2710\tarefa2710\obj\Debug\net5.0\tarefa2710.genruntimeconfig.cache
